@@ -1,0 +1,2 @@
+# postgrescli
+Tiny postgresql cli
