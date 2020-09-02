@@ -1,5 +1,5 @@
 # postgrescli
-Tiny postgresql cli
+Tiny postgresql cli. Run 'psql' against some remote DB
 
 # Docker build
 
